@@ -1,0 +1,93 @@
+/*--------------INICIO DE LA CLASE 138------------*/
+
+body{
+    background-size: cover;
+}
+
+#seccion_inicio{
+width: 100%;
+text-align: left;
+}
+
+#texto_titulo{
+    display: inline;
+    width: 100%;
+}
+
+#boton_instrucciones{
+    float: right;
+    border: 1px solid rgb(254, 255, 254);
+    box-shadow: 3px 3px 3px rgb(7, 0, 0);
+    font-size: 20px;
+    white-space: pre-line;
+    font-weight: 600;
+}
+
+#texto_controles{
+    font-family: 'Macondo', cursive;
+    font-weight: 600;
+}
+
+#mario
+{
+    width: 100%;
+}
+
+#start, #status
+{
+    font-size: 20px;
+    white-space: pre-line;
+    font-weight: 600;
+    border-width: 5px;
+    box-shadow: 3px 3px 3px rgb(7, 0, 0);
+}
+
+ 
+/*--------------INICIO DE LA CLASE 139------------*/
+
+#mis_instrucciones{
+    text-align: center;
+}
+
+#contenido_modal
+{
+    width: 90%;
+}
+
+#titulo_instrucciones{
+    background-color: rgb(35, 3, 65);
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    width: 98%;
+    line-height: 2;
+    margin: 0px;
+}
+
+#imagen_instrucciones
+{
+    display: inline-block;
+    width: 50%;
+    margin-top: 10px;
+  
+}
+
+#creditos{
+    color:rgb(10, 10, 10);
+    font-weight: 600;
+}
+
+/*-------CONFIGURACIÓN DE LA CÁMARA DE VIDEO DEL JAVASCRIPT---------------*/
+
+/*-------------------------------INICIO DE LA CLASE 141----------------*/
+
+video
+{
+    background-image: url('consola.png');
+    background-position:center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+
